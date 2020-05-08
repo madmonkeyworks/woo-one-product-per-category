@@ -1,0 +1,55 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Woo One Product per Category\n"
+"POT-Creation-Date: 2019-03-17 21:36+0100\n"
+"PO-Revision-Date: 2019-03-17 18:21+0000\n"
+"Last-Translator: \n"
+"Language-Team: MadMonkey <hi@madmonkey.works>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woo-one-product-per-category.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: woo-one-product-per-category.php:29
+msgid "One Product per Category"
+msgstr ""
+
+#: woo-one-product-per-category.php:30
+#: woo-one-product-per-category.php:53
+msgid ""
+"When checked, will allow only one product per category in the cart. The "
+"latest added item will stay, all other products of this category already "
+"in cart will be removed."
+msgstr ""
+
+#: woo-one-product-per-category.php:50
+msgid "One Product per Category?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Woo One Product per Category"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Allows only one product per category in the cart. The latest added item "
+"stays, the item of the same category that is already in cart is removed."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jan B Mwesigwa"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://madmonkey.works"
+msgstr ""
